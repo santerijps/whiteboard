@@ -1,0 +1,16 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+#whiteboard {
+  align-items: center;
+  background-color: darkseagreen;
+  display: flex;
+  height: 100%;
+  justify-content: center;
+}
+
+svg {
+  background-color: white;
+}
